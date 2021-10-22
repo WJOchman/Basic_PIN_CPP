@@ -14,7 +14,7 @@ void main() {
 
 	if (errorCounter < 3)
 		cout << "Loading....\n";
-		cout << "Correct!"
+		cout << "Correct!";
 	else 
 		cout << "Incorrect PIN. Blocked!";
 
